@@ -23,6 +23,6 @@ Blockchain: Ethereum (Smart Contracts for staking & rewards)
 
 AI Model Deployment: SingularityNET
 
-Cryptocurrency: TEST token
+Cryptocurrency:  any token
 
 Storage: IPFS (for storing uploaded media securely)
